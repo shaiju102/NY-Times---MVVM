@@ -1,6 +1,6 @@
 # Android MVVM Architecture: Sample App
-####This repository contains a detailed sample app that implements MVVM architecture using Android Archtecture components like VewModel , LiveData and Data Binding.
-####The app basically fetch certains news feeds and list them in a recycler view
+This repository contains a detailed sample app that implements MVVM architecture using Android Archtecture components like VewModel , LiveData and Data Binding.
+The app basically fetch certain news feeds and list them in a recycler view
 
 Prerequisites
 --------------
