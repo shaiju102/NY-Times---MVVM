@@ -10,7 +10,7 @@ Prerequisites
 - Latest Android Build Tools
 - Android Support Repository
 
-#Technology used
+####Technology used
 * Clean MVVM architecture
 * [Android Databinding](https://developer.android.com/topic/libraries/data-binding/index.html)
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
@@ -45,6 +45,17 @@ Prerequisites
 - Run the newly created configuration
 
 The application will be started on the device/emulator and a series of actions will be performed automatically.
+
+####ANDROID-TEST COVERAGE REPORT
+
+-find createDebugCoverageTest task;
+-double click;
+-wait for all tests to run
+-Note: you should have your test emulator launched or an Android device connected.
+
+-When Android Studio notifies you that everything is OK, you'll be able to find a test coverage report at “YOUR_PROJECT_PATH\app\build\reports\coverage\debug\index.html”:
+
+
 
 License
 --------
