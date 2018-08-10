@@ -49,6 +49,7 @@ public class ExampleInstrumentedTest {
 
     @Test
     public void articleListActivityTest() {
+        
         ViewInteraction recyclerView = onView(
                 allOf(withId(R.id.includedList),
                         childAtPosition(
