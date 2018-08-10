@@ -5,6 +5,7 @@
 Prerequisites
 --------------
 
+- Android Studio 3.1
 - Android SDK v27
 - Latest Android Build Tools
 - Android Support Repository
