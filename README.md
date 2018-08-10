@@ -17,6 +17,7 @@ Prerequisites
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * [Retrofit](https://square.github.io/retrofit/)
 * [Glide](https://github.com/bumptech/glide)
+* [Espresso]()
 
 
 #### The app has following packages:
